@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library_books>
+    <catalogue>
+
+        <technical_books>
+
+            <Tec1 isbn10=0735619670>
+                <title> Code Complete: A Practical Handbook of Software Construction </title>
+                <author> Steve McConnell </author>
+            </Tec1>
+
+            <Tec2 isbn10=0131103628>
+                <title> The C Programming Language (2nd Edition) </title>
+                <author> Brian Kernighan </author>
+            </Tec2>
+
+        </technical_books>
+
+        <cookery_books>
+
+            <Cook1 isbn10=0399581758>
+                <title> Ottolenghi Flavor: A Cookbook </title>
+                <author> Yotam Ottolenghi </author>
+            </Cook1>
+
+            <Cook2 isbn10=1472267605>
+                <title> Simply Raymond: Recipes from Home </title>
+                <author> Raymond Blanc </author>
+            </Cook2>
+
+        </cookery_books>
+
+    </catalogue>
+
+</library_books>
